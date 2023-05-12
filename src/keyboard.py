@@ -1,5 +1,6 @@
 from src.item import Item
 
+
 class MixinLanguage:
     """
     Mixin-класс для метода change_lang
